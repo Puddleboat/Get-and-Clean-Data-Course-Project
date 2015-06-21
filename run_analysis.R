@@ -5,7 +5,6 @@
 #####################################
 
 
-setwd("C:/Users/User/Desktop/Coursera Data Scientist/Unit 3 - Getting and Cleaning Data/Course Project")
 library(plyr)
 
 ######################################
